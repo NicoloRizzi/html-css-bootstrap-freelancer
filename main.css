@@ -27,3 +27,10 @@
 .padding-bottom {
   padding-bottom: 20px;
 }
+
+.btn-white {
+  border: 1px solid white;
+}
+.btn-green {
+  border: 1px solid #1abc9c;
+}
