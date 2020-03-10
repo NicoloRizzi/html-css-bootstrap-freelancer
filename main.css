@@ -1,13 +1,16 @@
 
 /*UTILITIES */
-.bg-blue-scuro {
-  background-color: #2c3e50;
+.bg-blu-chiaro {
+  background-color: ##3a546d;
 }
 
 .bg-verde {
   background-color: #1abc9c;
 }
 
+.bg-blu-scuro {
+  background-color: #2c3e50;
+}
 .color-white {
   color: white;
 }
@@ -33,4 +36,9 @@
 }
 .btn-green {
   border: 1px solid #1abc9c;
+}
+
+.border-radius {
+  border: 1px solid white;
+  border-radius: 2px;
 }
